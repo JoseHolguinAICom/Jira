@@ -1,0 +1,7 @@
+[
+  { "codigo": "GES", "descripcion": "Gesmobile" },
+  { "codigo": "RUT", "descripcion": "Rutaswin" },
+  { "codigo": "AHO", "descripcion": "Ahora" },
+  { "codigo": "MAT", "descripcion": "Portal Matutano" },
+  { "codigo": "GCO", "descripcion": "Gconector" }
+]
