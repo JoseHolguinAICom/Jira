@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "codigo": "ORG001",
+    "nombre": "Empresa ABC",
+    "indPepsico": true,
+    "jiraOrgId": "jira-uuid-001",
+    "productos": ["GES", "RUT"]
+  },
+  {
+    "codigo": "ORG002",
+    "nombre": "Distribuidora XYZ",
+    "indPepsico": false,
+    "jiraOrgId": "jira-uuid-002",
+    "productos": ["AHO", "GCO"]
+  },
+  {
+    "codigo": "ORG003",
+    "nombre": "Logística Matutano",
+    "indPepsico": true,
+    "jiraOrgId": "jira-uuid-003",
+    "productos": ["MAT", "GES", "RUT"]
+  }
+]
